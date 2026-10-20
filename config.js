@@ -1,2 +1,3 @@
-// Публичный поддомен своего счётчика; оставьте пустым до настройки. Не вставляйте API-токены.
-window.PORTAL_CONFIG = { goatcounterCode: '' };
+window.PORTAL_CONFIG = {
+  goatcounterCode: 'proveryai-ai'
+};
